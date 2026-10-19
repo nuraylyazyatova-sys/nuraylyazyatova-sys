@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Nurai. I am 17 years old and I live in Astana, Kazakhstan. I am a college student studying software development👋 
 
 <!--
 **nuraylyazyatova-sys/nuraylyazyatova-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
